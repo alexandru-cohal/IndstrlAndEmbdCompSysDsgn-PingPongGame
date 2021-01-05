@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Arduino", "Arduino\Arduino.cproj", "{D145D8AB-DCBF-486F-9CA3-5D03B4FB39C9}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Breadboard", "Breadboard\Breadboard.cproj", "{16799184-65A0-42A6-8E7A-7D7D3D78B632}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Controlboard", "Controlboard\Controlboard.cproj", "{26FCDC5E-ED3C-47AD-A62C-F58BA2B1ECEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D145D8AB-DCBF-486F-9CA3-5D03B4FB39C9}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D145D8AB-DCBF-486F-9CA3-5D03B4FB39C9}.Debug|AVR.Build.0 = Debug|AVR
+		{D145D8AB-DCBF-486F-9CA3-5D03B4FB39C9}.Release|AVR.ActiveCfg = Release|AVR
+		{D145D8AB-DCBF-486F-9CA3-5D03B4FB39C9}.Release|AVR.Build.0 = Release|AVR
+		{16799184-65A0-42A6-8E7A-7D7D3D78B632}.Debug|AVR.ActiveCfg = Debug|AVR
+		{16799184-65A0-42A6-8E7A-7D7D3D78B632}.Debug|AVR.Build.0 = Debug|AVR
+		{16799184-65A0-42A6-8E7A-7D7D3D78B632}.Release|AVR.ActiveCfg = Release|AVR
+		{16799184-65A0-42A6-8E7A-7D7D3D78B632}.Release|AVR.Build.0 = Release|AVR
+		{26FCDC5E-ED3C-47AD-A62C-F58BA2B1ECEF}.Debug|AVR.ActiveCfg = Debug|AVR
+		{26FCDC5E-ED3C-47AD-A62C-F58BA2B1ECEF}.Debug|AVR.Build.0 = Debug|AVR
+		{26FCDC5E-ED3C-47AD-A62C-F58BA2B1ECEF}.Release|AVR.ActiveCfg = Release|AVR
+		{26FCDC5E-ED3C-47AD-A62C-F58BA2B1ECEF}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
